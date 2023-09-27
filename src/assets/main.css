@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 html, .route-view, .title, h1, h2, h3, h4, h5, h6, p, body, br {
     background-color: #92CC41 !important;
+}
+
+* {
+    font-family: 'Press Start 2P', cursive;
 }
 
 ::selection {
