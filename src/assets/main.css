@@ -1,0 +1,36 @@
+html, .route-view, .title, h1, h2, h3, h4, h5, h6, p, body, br {
+    background-color: #92CC41 !important;
+}
+
+::selection {
+    background-color: #b9f06bab;
+    border-radius: 5px;
+    border-style: none;
+}
+
+p.title {
+    font-size: 60px;
+}
+
+/*Scrollbar*/
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #729442;
+}
+
+
+::-webkit-scrollbar-thumb {
+    background: #b1ff447c;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #a4da5a8e;
+}
+/*Scrollbar*/
+
+.copyright {
+    font-size: 13px;
+}
