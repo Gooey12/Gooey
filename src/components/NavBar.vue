@@ -17,38 +17,6 @@
 </template>
 
 <style scoped>
-/* @media (max-width: 320px) {
-    .navbar {
-  float: left;
-  font-size: 16px;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-    .dropdown {
-  float: left;
-  overflow: hidden;
-}
-
-    .dropdown .dropbtn {
-  font-size: 16px;
-  border: none;
-  outline: none;
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-} 
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  min-width: 160px; 
-  z-index: 1;
-}
-} */
-
 .navbar {
     background-color: #92CC41;
     height: 78px;

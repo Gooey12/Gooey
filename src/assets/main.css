@@ -4,6 +4,14 @@ html, .route-view, .title, h1, h2, h3, h4, h5, h6, p, body, br {
     background-color: #92CC41 !important;
 }
 
+a:hover {
+    color: #212529;
+  }
+  
+a {
+    color: #212529;
+}
+
 * {
     font-family: 'Press Start 2P', cursive;
 }

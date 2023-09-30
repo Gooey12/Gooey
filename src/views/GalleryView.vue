@@ -37,11 +37,11 @@
 
 <style scoped>
 a:hover {
-  color: black;
-}
-
+    color: #212529;
+  }
+  
 a {
-  color: black;
+    color: #212529;
 }
 
 img {
