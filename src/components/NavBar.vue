@@ -1,6 +1,6 @@
 <template>
 
-    <div class="navbar nes-container with-title is-centered">
+    <div class="navbar nes-container with-title is-centered fixed-top">
             <div class="logo">
             <a target="_blank" rel="noopener noreferrer" href="https://github.com/captgooey12" class="nes-btn is-success">Gooey</a>
             </div>
@@ -14,9 +14,19 @@
             </div>
     </div>
 
+    <br>
+    <br>
+    <br>
+
 </template>
 
 <style scoped>
+.fixed-top {
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+}
+
 .navbar {
     background-color: #92CC41;
     height: 78px;
