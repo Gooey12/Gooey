@@ -3,7 +3,7 @@
 
     <br><br>
 
-    <div class="nes-container titlesub">
+    <div class="titlesub">
 
         <p class="title">About Me</p>
 
@@ -30,14 +30,14 @@
             <p class="small-txt">Here's some tools, programming languages, frameworks and other things that I uses:</p><br>
 
             <div class="icons">
-            <a href="https://code.visualstudio.com" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-visual-studio-code.png" width="48" /></a>
-            <a href="https://github.com/" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-github.png" width="48" /></a>
-            <a href="https://markdownguide.org/" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-markdown.png" width="48" /></a>
-            <a href="https://html5.org" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-html5.png" width="48" /></a>
-            <a href="https://www.css3.com" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-css3.png" width="48" /></a>
-            <a href="https://www.javascript.com" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-js.png" width="48" /></a>
-            <a href="https://vuejs.org/" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-vue.png" width="48" /></a>
-            <a href="https://vercel.com/" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-vercel.png" width="48" /></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-visual-studio-code.png" width="48" /></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://github.com/" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-github.png" width="48" /></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://markdownguide.org/" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-markdown.png" width="48" /></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://html5.org" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-html5.png" width="48" /></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://www.css3.com" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-css3.png" width="48" /></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://www.javascript.com" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-js.png" width="48" /></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://vuejs.org/" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-vue.png" width="48" /></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://vercel.com/" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-vercel.png" width="48" /></a>
             </div>
         </div>
 
