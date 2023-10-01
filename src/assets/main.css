@@ -32,16 +32,16 @@ p.title {
 }
 
 ::-webkit-scrollbar-track {
-    background: #729442;
+    background: #86b445;
 }
 
 
 ::-webkit-scrollbar-thumb {
-    background: #b1ff447c;
+    background: #a3e04d;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #a4da5a8e;
+    background: #9cd849ee;
 }
 /*Scrollbar*/
 

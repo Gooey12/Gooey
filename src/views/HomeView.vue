@@ -18,14 +18,6 @@
         <p>I'm Gooey, and this is my official website (WOW, SO COOL). I am currently learning HTML, CSS and JavaScript.</p>
     </div>
 
-        <br><br>
-
-        <div class="qoutes">
-
-            <p class="nes-container qbox">"Never give up"<br> -Rick Astley</p>
-
-        </div>
-
         <br><br><br><br><br><br>
 
     <footer><p class="copyright">&copy; Copyright 2023 - Gooey.</p></footer>

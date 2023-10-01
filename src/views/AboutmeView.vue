@@ -43,17 +43,21 @@
 
         <div class="sub-container nes-container">
             <p class="sub-subtitle">Social Medias</p>
+            <p>Below are my social media accounts:</p>
 
             <br>
 
-            <a target="_blank" rel="noopener noreferrer" href="https://github.com/captgooey12/">GitHub</a><br>
-            <a target="_blank" rel="noopener noreferrer" href="https://gooey12.itch.io/">Itch</a><br>
-            <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/channel/UC5SWRX6hnHb4rGzea1nb-oQ">YouTube</a><br>
-            <a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/user/CaptGooey1211/submitted/">Reddit</a>
+            <div class="icons">
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/captgooey12/" class="icon"><img src="https://raw.githubusercontent.com/nthnn/nthnn/main/assets/ic-github.png" width="48" /></a>
+                <a target="_blank" rel="noopener noreferrer" href="https://gooey12.itch.io/" class="icon"><img src="../icons/icon_itch.png" width="48" /></a>
+                <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/channel/UC5SWRX6hnHb4rGzea1nb-oQ" class="icon"><img src="../icons/icon_youtube.png" width="48" /></a>
+                <a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/user/CaptGooey1211/submitted/" class="icon"><img src="../icons/icon_reddit.png" width="48" /></a>
+            </div>
 
-            <br><br><br><br>
+            <br><br><br><br><br><br><br>
 
             <p class="sub-subtitle">Contacts</p>
+            <p>You can reach me through the following contacts:</p>
 
             <br>
 
@@ -71,7 +75,7 @@
             <br>
 
             <div class="center">
-                <a target="_blank" rel="noopener noreferrer" href="https://discord.gg" class="nes-badge">
+                <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Vr5UpCgu5p" class="nes-badge">
                     <span class="is-primary">Discord</span>
                 </a>
             </div>
