@@ -32,7 +32,7 @@
     <div class="nes-container with-title project-card">
       <!--<img src="/pictures/QuickNoter-Screenshot.png" alt="" class="nes-container card-pic">-->
       <a target="_blank" rel="noopener noreferrer" href="https://qr-genr.vercel.app/"><p>QR Code Generatore</p></a>
-      <img src="../assets/QR Code Generatore-Screenshot.png" alt="" class="nes-container "/>
+      <img src="../assets/QRCodeGeneratore-Screenshot.png" alt="" class="nes-container "/>
       <br><br>
       <p>Generate QR code faster than the speed of dark!</p>
     </div>
@@ -46,7 +46,7 @@
     <div class="nes-container with-title project-card">
       <!--<img src="/pictures/QuickNoter-Screenshot.png" alt="" class="nes-container card-pic">-->
       <a target="_blank" rel="noopener noreferrer" href="https://gooey12.itch.io/a-game-name"><p>A Game: Name</p></a>
-      <img src="../assets/Trashy Game-Screenshot.png" alt="" class="nes-container "/>
+      <img src="../assets/TrashyGame-Screenshot.png" alt="" class="nes-container "/>
       <br><br>
       <p>Most trashy game in the Universe.</p>
     </div>
@@ -62,7 +62,7 @@
     <div class="nes-container with-title project-card">
       <!--<img src="/pictures/QuickNoter-Screenshot.png" alt="" class="nes-container card-pic">-->
       <a target="_blank" rel="noopener noreferrer" href="https://gooey12.itch.io/jam-rush"><p>Game Jam Rush</p></a>
-      <img src="../assets/Game Jam Rush-Screenshot.png" alt="" class="nes-container "/>
+      <img src="../assets/GameJamRush-Screenshot.png" alt="" class="nes-container "/>
       <br><br>
       <p>Game made for the <a target="_blank" rel="noopener noreferrer" href="https://itch.io/jam/jame-gam-33"><p>Jame Gam #33.</p></a></p>
     </div>          
