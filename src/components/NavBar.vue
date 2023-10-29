@@ -17,14 +17,14 @@
     <br>
     <br>
     <br>
-
+    
 </template>
 
 <style scoped>
 .fixed-top {
   position: fixed;
   width: 100%;
-  z-index: 999;
+  z-index: 999  ;
 }
 
 .navbar {
